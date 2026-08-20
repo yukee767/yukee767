@@ -1,78 +1,95 @@
-# yukee767 — Vibe Coder | Frontend & Automation
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=180&section=header&text=yukee767&fontSize=42&fontColor=FFFFFF&animation=fadeIn&desc=Vibe%20Coder%20%E2%80%A2%20Frontend%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20Leitura%20Online&descAlignY=55" />
 
-> Minimalismo, performance e experiência de leitura. Transformando ideias em produtos com Vibe Coding.
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+minimalista+e+perform%C3%A1tico;Apps+de+automa%C3%A7%C3%A3o+que+economizam+horas;Sites+de+leitura+online+focados+em+UX;4%2B+anos+codigo+%2B+vibe+coding+full-time" alt="Typing SVG" /></a>
+</p>
 
-### Sobre mim
-Sou **Vibe Coder** focado em **Frontend**, com 4 a 5 anos de contato com programação entre estudos, projetos e colaborações. Com o movimento do vibe coding, decidi mergulhar de cabeça na área e transformar ideias em produtos reais.
-
-**O que eu faço:**
-- **Apps de Automação** — bots, scrapers e fluxos que eliminam tarefas repetitivas
-- **Sites Minimalistas** — design limpo, tipografia precisa e alta performance
-- **Sites de Leitura Online** — meu foco principal; priorizo legibilidade, conforto visual e UX
-
-Além do frontend, possuo **vasta experiência com frameworks de Segurança (Sec)**, atuando da análise de vulnerabilidades ao hardening de aplicações.
+<p align="center">
+  <img src="https://img.shields.io/github/followers/yukee767?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/yukee767?label=Stars&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=yukee767&label=Profile%20views&color=38BDF8&style=flat" />
+</p>
 
 ---
 
-### 🛠️ Stack
+### 👨‍💻 Sobre mim
 
-**Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+Sou **Vibe Coder** focado em **Frontend**, com **4 a 5 anos** de contato com programação entre estudos, projetos e colaborações. Com o movimento do vibe coding, decidi mergulhar de cabeça e transformar ideias em produtos reais.
 
-**Automação & Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
-
-**Security**
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-
-> *Me avise suas linguagens exatas e eu ajusto os badges 1:1. Ex: Vue, Angular, Svelte, Go, etc.*
+> **Especialidades:** desenvolvimento de **apps de automação**, criação de **sites com layout minimalista** e, principalmente, **plataformas de leitura online** — com foco em legibilidade, performance e experiência do usuário.
+>
+> Além do frontend, possuo **vasta experiência com frameworks de Segurança (Sec)**, atuando da análise de vulnerabilidades ao hardening de aplicações.
 
 ---
 
-### 🚀 Projetos em destaque
-| Projeto | Descrição | Stack |
-|---|---|---|
-| **Leitor Minimal** | Plataforma de leitura online com foco em conforto visual e velocidade | Next.js + Tailwind |
-| **AutoFlow** | App de automação para tarefas repetitivas | Python / Node + Playwright |
-| **Landing Clean** | Template minimalista ultra-leve para sites | HTML + CSS + JS |
+### 🛠️ Stack & Tecnologias
 
-*Dica: fixe 3-6 repos no seu perfil. Substitua pelos seus links reais.*
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,python&perline=5" /></a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker&perline=6" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-Playwright%20%7C%20Puppeteer-2EAD33?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security-OWASP%20%7C%20Burp%20Suite%20%7C%20Kali-FF6B6B?style=for-the-badge" />
+</p>
 
 ---
 
-### ✨ Filosofia
-`menos é mais` — design minimalista, código limpo, foco no usuário. Vibe coding pra mim é velocidade sem perder qualidade.
+### 🚀 O que eu construo
+
+| | Projeto | Stack | Destaque |
+|---|---|---|---|
+| 📖 | **Leitor Minimal** | Next.js + Tailwind | Leitura com conforto visual, modo escuro, tipografia otimizada |
+| 🤖 | **AutoFlow** | Python / Node | Bots e automações que eliminam tarefas repetitivas |
+| ✨ | **Landing Clean** | HTML + CSS + JS | Template ultra-leve, minimalista e responsivo |
+
+> Dica: em breve vou fixar meus repositórios reais aqui (Downloader-Yomi-Read, Downloader-Yako)
 
 ---
 
-### 📊 GitHub Stats
-![yukee's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukee767&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukee767&layout=compact&theme=tokyonight&hide_border=true)
+### 📊 Estatísticas Animadas
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yukee767&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yukee767&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukee767&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yukee767&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yukee767&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yukee767&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🐍 Snake Contribution
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+> A animação da cobrinha atualiza sozinha via GitHub Actions. Se quiser, eu já configuro o workflow pra você.
 
 ---
 
 ### 📫 Contato
-- GitHub: [@yukee767](https://github.com/yukee767)
-- Portfólio: `seu-link-aqui`
-- Email: `seu-email-aqui`
 
-> Aberto para colabs em projetos de frontend minimalista e automação.
+<p align="center">
+  <a href="https://github.com/yukee767"><img src="https://img.shields.io/badge/GitHub-yukee767-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:seu-email-aqui"><img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
----
+<p align="center">
+  <i>“4 anos estudando, agora construindo de verdade.” — menos é mais.</i>
+</p>
 
-<div align="center">
-  <i>"4 anos estudando, agora construindo de verdade."</i>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=120&section=footer&text=&animation=fadeIn" />
