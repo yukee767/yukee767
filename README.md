@@ -74,10 +74,10 @@ Sou **Vibe Coder** focado em **Frontend**, com **4 a 5 anos** de contato com pro
 ### 🐍 Snake Contribution
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/yukee767/yukee767/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
-> A animação da cobrinha atualiza sozinha via GitHub Actions. Se quiser, eu já configuro o workflow pra você.
+> Atualização automática a cada 6h via GitHub Actions
 
 ---
 
