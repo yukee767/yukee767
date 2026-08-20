@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=180&section=header&text=yukee767&fontSize=42&fontColor=FFFFFF&animation=fadeIn&desc=Vibe%20Coder%20%E2%80%A2%20Frontend%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20Leitura%20Online&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=200&section=header&text=yukee767&fontSize=42&fontColor=FFFFFF&animation=fadeIn&desc=Vibe%20Coder%20%E2%80%A2%20Frontend%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20Leitura%20Online&descAlignY=75&descSize=16" />
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+minimalista+e+perform%C3%A1tico;Apps+de+automa%C3%A7%C3%A3o+que+economizam+horas;Sites+de+leitura+online+focados+em+UX;4%2B+anos+codigo+%2B+vibe+coding+full-time" alt="Typing SVG" /></a>
@@ -38,18 +38,6 @@ Sou **Vibe Coder** focado em **Frontend**, com **4 a 5 anos** de contato com pro
 
 ---
 
-### 🚀 O que eu construo
-
-| | Projeto | Stack | Destaque |
-|---|---|---|---|
-| 📖 | **Leitor Minimal** | Next.js + Tailwind | Leitura com conforto visual, modo escuro, tipografia otimizada |
-| 🤖 | **AutoFlow** | Python / Node | Bots e automações que eliminam tarefas repetitivas |
-| ✨ | **Landing Clean** | HTML + CSS + JS | Template ultra-leve, minimalista e responsivo |
-
-> Dica: em breve vou fixar meus repositórios reais aqui (Downloader-Yomi-Read, Downloader-Yako)
-
----
-
 ### 📊 Estatísticas Animadas
 
 <p align="center">
@@ -64,20 +52,6 @@ Sou **Vibe Coder** focado em **Frontend**, com **4 a 5 anos** de contato com pro
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yukee767&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yukee767&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-### 🐍 Snake Contribution
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yukee767/yukee767/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-> Atualização automática a cada 6h via GitHub Actions
 
 ---
 
