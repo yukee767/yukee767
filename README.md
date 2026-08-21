@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=200&section=header&text=yukee767&fontSize=42&fontColor=FFFFFF&animation=fadeIn&desc=Vibe%20Coder%20%E2%80%A2%20Frontend%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20Leitura%20Online&descAlignY=75&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=200&section=header&text=Victor!&fontSize=42&fontColor=FFFFFF&animation=fadeIn&desc=Vibe%20Coder%20%E2%80%A2%20Frontend%20%E2%80%A2%20Automa%C3%A7%C3%A3o%20%E2%80%A2%20Leitura%20Online&descAlignY=75&descSize=16" />
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+minimalista+e+perform%C3%A1tico;Apps+de+automa%C3%A7%C3%A3o+que+economizam+horas;Sites+de+leitura+online+focados+em+UX;4%2B+anos+codigo+%2B+vibe+coding+full-time" alt="Typing SVG" /></a>
@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou **Vibe Coder** focado em **Frontend**, com **4 a 5 anos** de contato com programação entre estudos, projetos e colaborações. Com o movimento do vibe coding, decidi mergulhar de cabeça e transformar ideias em produtos reais.
+Sou **Victor!** — **Vibe Coder** focado em **Frontend**, com **4 a 5 anos** de contato com programação entre estudos, projetos e colaborações. Com o movimento do vibe coding, decidi mergulhar de cabeça e transformar ideias em produtos reais.
 
 > **Especialidades:** desenvolvimento de **apps de automação**, criação de **sites com layout minimalista** e, principalmente, **plataformas de leitura online** — com foco em legibilidade, performance e experiência do usuário.
 >
