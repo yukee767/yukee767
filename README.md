@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Victor!?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/Victor!?label=Stars&style=social" />
-  <img src="https://komarev.com/ghpvc/?username=Victor!&label=Profile%20views&color=38BDF8&style=flat" />
+  <img src="https://img.shields.io/github/followers/yukee767?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/yukee767?label=Stars&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=yukee767&label=Profile%20views&color=38BDF8&style=flat" />
 </p>
 
 ---
