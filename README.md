@@ -18,39 +18,39 @@ Sou **Vibe Coder** focado em **Frontend**, com **4 a 5 anos** de contato com pro
 
 > **Especialidades:** desenvolvimento de **apps de automação**, criação de **sites com layout minimalista** e, principalmente, **plataformas de leitura online** — com foco em legibilidade, performance e experiência do usuário.
 >
-> Além do frontend, possuo **vasta experiência com frameworks de Segurança (Sec)**, atuando da análise de vulnerabilidades ao hardening de aplicações.
+> Atuo também em **Backend** como apoio, mas meu foco principal é **Frontend UI/UX**. Possuo ainda **vasta experiência com frameworks de Segurança (Sec)**, atuando da análise de vulnerabilidades ao hardening de aplicações.
 
 ---
 
 ### 🛠️ Stack & Tecnologias
 
+#### 🎨 Frontend — Foco Principal (UI/UX)
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,python&perline=5" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,figma" /></a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker&perline=6" /></a>
+  <sub><b>HTML5</b> • <b>CSS3</b> • <b>JavaScript</b> • <b>TypeScript</b> • <b>React</b> • <b>Next.js</b> • <b>Tailwind CSS</b> • <b>Vite</b> • <b>Figma</b> — Design e interfaces minimalistas</sub>
+</p>
+
+#### ⚙️ Backend — Apoio & Automação
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,python" /></a>
+</p>
+<p align="center">
+  <sub><b>Node.js</b> • <b>Python</b> — APIs, bots e automações</sub>
+</p>
+
+#### 🧰 Ferramentas & Segurança
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,docker" /></a>
+</p>
+<p align="center">
+  <sub><b>Git</b> • <b>GitHub</b> • <b>VS Code</b> • <b>Docker</b></sub>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-Playwright%20%7C%20Puppeteer-2EAD33?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-OWASP%20%7C%20Burp%20Suite%20%7C%20Kali-FF6B6B?style=for-the-badge" />
-</p>
-
----
-
-### 📊 Estatísticas Animadas
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yukee767&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukee767&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yukee767&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yukee767&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://img.shields.io/badge/Security-OWASP%20%7C%20Burp%20Suite-FF6B6B?style=for-the-badge" />
 </p>
 
 ---
