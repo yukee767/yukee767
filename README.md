@@ -22,36 +22,16 @@ Sou **Vibe Coder** focado em **Frontend**, com **4 a 5 anos** de contato com pro
 
 ---
 
-### 🛠️ Stack & Tecnologias
+### 💼 Stack
 
-#### 🎨 Frontend — Foco Principal (UI/UX)
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,figma" /></a>
-</p>
-<p align="center">
-  <sub><b>HTML5</b> • <b>CSS3</b> • <b>JavaScript</b> • <b>TypeScript</b> • <b>React</b> • <b>Next.js</b> • <b>Tailwind CSS</b> • <b>Vite</b> • <b>Figma</b> — Design e interfaces minimalistas</sub>
-</p>
-
-#### ⚙️ Backend — Apoio & Automação
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,python" /></a>
-</p>
-<p align="center">
-  <sub><b>Node.js</b> • <b>Python</b> — APIs, bots e automações</sub>
-</p>
-
-#### 🧰 Ferramentas & Segurança
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,docker" /></a>
-</p>
-<p align="center">
-  <sub><b>Git</b> • <b>GitHub</b> • <b>VS Code</b> • <b>Docker</b></sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-Playwright%20%7C%20Puppeteer-2EAD33?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-OWASP%20%7C%20Burp%20Suite-FF6B6B?style=for-the-badge" />
-</p>
+| Categoria | Tecnologias |
+|---|---|
+| **Backend** | ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FASTAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![FLASK](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white) |
+| **Frontend** | ![NEXT.JS](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white) ![REACT](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Dados & BI** | ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![REDIS](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![PANDAS](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white) |
+| **IA & Automação** | ![LANGCHAIN](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white) ![GEMINI](https://img.shields.io/badge/GEMINI-8E75B2?style=for-the-badge&logo=google&logoColor=white) ![CLAUDE CODE](https://img.shields.io/badge/CLAUDE%20CODE-D97706?style=for-the-badge&logo=anthropic&logoColor=white) ![PLAYWRIGHT](https://img.shields.io/badge/PLAYWRIGHT-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) |
+| **DevOps & Tools** | ![DOCKER](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![RAILWAY](https://img.shields.io/badge/RAILWAY-0B0D0E?style=for-the-badge&logo=railway&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| **Estudando** | ![JAVA](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
 
 ---
 
